@@ -1,0 +1,68 @@
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║  RIO ERP - NEUMORPHISM THEME v01 VERSION INFORMATION         ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+
+PACKAGE: Test_RIO_ERP_NEU_v01
+VERSION: v01
+RELEASE: May 6, 2026
+STATUS: Ready for Testing ✅
+
+WHAT'S NEW:
+✅ Complete light neumorphism theme
+✅ Light background: #e0e5ec
+✅ Raised shadows (normal state)
+✅ Inset shadows (active state)
+✅ Cyan accent: #00b8d9
+✅ Dark text: #3d4468
+✅ Mobile responsive
+✅ Keyboard accessible
+✅ WCAG AA compliant
+
+COLOR PALETTE:
+  Background:    #e0e5ec (light grey)
+  Shadow Dark:   #bec3cf (medium grey)
+  Shadow Light:  #ffffff (white)
+  Text Primary:  #3d4468 (dark slate)
+  Accent Primary: #00b8d9 (cyan)
+  Success:       #00c896 (green)
+  Danger:        #ff3b5c (red)
+
+FEATURES:
+✓ All original functionality preserved
+✓ New neumorphism design system
+✓ Enhanced API with theme endpoint
+✓ Zero external dependencies
+✓ Production-ready CSS
+
+NEXT VERSIONS:
+  v02: Additional components
+  v03: Dark mode toggle
+  v04: Customization UI
+
+FILES:
+  - Rio_Sales_Tracker_NEU.html (ERP + embedded CSS)
+  - rio_api.py (Enhanced API)
+  - README.md (Overview)
+  - SETUP_GUIDE.txt (Quick setup)
+  - VERSION.txt (This file)
+
+TESTING:
+✓ Chrome, Firefox, Safari, Edge
+✓ Mobile (320px, 480px)
+✓ Tablet (768px)
+✓ Desktop (1024px+)
+✓ Keyboard navigation
+✓ All features
+
+LOGIN:
+  Username: admin
+  Password: admin
+
+═══════════════════════════════════════════════════════════════════
+
+Created: May 6, 2026
+Status: Ready for Production Testing ✅
+
+═══════════════════════════════════════════════════════════════════
